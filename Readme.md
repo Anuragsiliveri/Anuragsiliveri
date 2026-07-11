@@ -1,14 +1,9 @@
 <div align="center">
 
-# anurag@github:~$
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Backend+Engineer;AI+%2F+ML+Engineer;Distributed+Systems+Enthusiast;Building+Production-Grade+Software;FastAPI+%7C+Python+%7C+TensorFlow;Always+Learning+Something+New" />
-
-<img src="https://komarev.com/ghpvc/?username=Anuragsiliveri&style=for-the-badge&color=22C55E"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&repeat=true&width=700&lines=%3E+Backend+Engineer_;%3E+AI%2FML+Engineer_;%3E+Gamer_;%3E+Builder_"/>
 
 </div>
 
----
 
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Banner">
@@ -74,7 +69,6 @@ Currently Building
 
 ---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🤖 Artificial Intelligence
 <p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda&theme=dark"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/> </p>
@@ -93,7 +87,7 @@ Currently Building
 | 📦 Anaconda | ML Environment |
 
 </div>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 📚 Currently Learning
 
@@ -125,7 +119,6 @@ Currently Building
 
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ---
 
