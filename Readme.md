@@ -159,10 +159,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragsilive
 # 📅 Contribution Calendar
 
 <p align="center">
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuragsiliveri&theme=github_dark"/>
-</p>
-
-<p align="center">
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anuragsiliveri&theme=github_dark"/>
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anuragsiliveri&theme=github_dark&utcOffset=5.5"/>
 </p>
