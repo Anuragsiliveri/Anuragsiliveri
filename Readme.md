@@ -6,7 +6,9 @@
 
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Banner">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2200&pause=1200&color=22C55E&center=true&vCenter=true&width=850&lines=anurag%40github%3A~%24;>+Backend+Engineer_;>+AI%2FML+Engineer_;>+Gamer_;>+Builder_;>+Always+Learning_">
+
 </p>
 ---
 
