@@ -51,9 +51,9 @@ Currently Building
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-
+---
 ## ⚙ Backend Engineering
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,fastapi,redis,postgres,mongodb,docker,kubernetes,linux,git,aws&theme=dark"/> </p>
+<img src="https://skillicons.dev/icons?i=fastapi,redis,postgres,mongodb,docker,kubernetes"/>
 
 | Technology | Purpose |
 |------------|---------|
@@ -75,9 +75,10 @@ Currently Building
 
 </div>
 
+---
 
 ## 🤖 Artificial Intelligence
-<p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda&theme=dark"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/> </p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 
 | Technology | Purpose |
 |------------|---------|
@@ -94,7 +95,7 @@ Currently Building
 
 </div>
 
-
+---
 
 ## 📚 Currently Learning
 
@@ -126,30 +127,11 @@ Currently Building
 
 </p>
 
-
 ---
-
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,redis,postgres,docker,kubernetes,linux,git,github,aws,tensorflow,pytorch,opencv"/>
-
-</p>
-
----
-
 
 # 📊 GitHub Statistics
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anuragsiliveri&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragsiliveri&theme=github-dark&hide_border=true"/>
-
-</p>
+<img width="49%" src="https://streak-stats.demolab.com?user=Anuragsiliveri&theme=github-dark&hide_border=true"/>
 
 ---
 
@@ -168,29 +150,22 @@ Currently Building
 # 📊 Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragsiliveri&theme=github-dark"/>
-
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragsiliveri&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YAnuragsiliveri/Anuragsiliveri/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+<img src="https://raw.githubusercontent.com/Anuragsiliveri/Anuragsiliveri/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anuragsiliveri&theme=algolia&no-frame=true&margin-w=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Anuragsiliveri&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
@@ -265,7 +240,7 @@ while alive:
 
 <p align="center">
 
-<a href="www.linkedin.com/in/anurag-siliveri">
+<a href="https://www.linkedin.com/in/anurag-siliveri">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
