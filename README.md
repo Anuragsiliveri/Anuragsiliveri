@@ -197,7 +197,7 @@ TensorFlow
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragsiliveri&theme=github-dark"/>
 
 </p>
 
@@ -207,7 +207,7 @@ TensorFlow
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/YAnuragsiliveri/Anuragsiliveri/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -217,7 +217,7 @@ TensorFlow
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anuragsiliveri&theme=algolia&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -227,7 +227,7 @@ TensorFlow
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuragsiliveri&theme=github_dark"/>
 
 </p>
 
