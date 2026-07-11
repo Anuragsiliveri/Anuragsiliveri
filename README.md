@@ -173,9 +173,9 @@ TensorFlow
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anuragsiliveri&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragsiliveri&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -185,9 +185,9 @@ TensorFlow
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragsiliveri&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuragsiliveri&theme=github_dark"/>
 
 </p>
 
