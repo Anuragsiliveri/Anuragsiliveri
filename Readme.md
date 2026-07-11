@@ -7,17 +7,18 @@
 
 <p align="center">
 
-<img src="./assets/banner.gif" width="100%">
+<a href="https://github.com/anuragsiliveri">
+
+<img
+src="./assets/banner.gif"
+width="100%"
+alt="Banner"
+/>
+
+</a>
 
 </p>
 
-
-<p align="center">
-<img width="700" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-</p>
----
-
-# 🌱 Terminal
 
 ```
 $ whoami
@@ -51,7 +52,7 @@ Currently Building
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-⚙ Backend Engineering
+## ⚙ Backend Engineering
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,fastapi,redis,postgres,mongodb,docker,kubernetes,linux,git,aws&theme=dark"/> </p>
 
 | Technology | Purpose |
@@ -75,7 +76,7 @@ Currently Building
 </div>
 
 
-🤖 Artificial Intelligence
+## 🤖 Artificial Intelligence
 <p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda&theme=dark"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/> </p>
 
 | Technology | Purpose |
@@ -92,6 +93,7 @@ Currently Building
 | 📦 Anaconda | ML Environment |
 
 </div>
+
 
 
 ## 📚 Currently Learning
@@ -138,36 +140,6 @@ Currently Building
 
 ---
 
-# 🚀 Featured Projects
-
-### 📦 Token Bucket Rate Limiter
-
-```
-✔ Thread Safe
-
-✔ FastAPI
-
-✔ Redis Ready
-
-✔ Production Architecture
-
-✔ Unit Tested
-```
-
-
-### 🤖 AI Backend APIs
-
-```
-REST APIs
-
-Model Serving
-
-FastAPI
-
-TensorFlow
-```
-
----
 
 # 📊 GitHub Statistics
 
