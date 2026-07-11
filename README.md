@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Backend+Engineer;AI+%2F+ML+Engineer;Distributed+Systems+Enthusiast;Building+Production-Grade+Software;FastAPI+%7C+Python+%7C+TensorFlow;Always+Learning+Something+New" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=22C55E"/>
+<img src="https://komarev.com/ghpvc/?username=Anuragsiliveri&style=for-the-badge&color=22C55E"/>
 
 </div>
 
