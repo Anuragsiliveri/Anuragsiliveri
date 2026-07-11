@@ -47,6 +47,7 @@ Currently Building
 ✓ Distributed Backend Services
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ⚙ Backend Engineering
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,fastapi,redis,postgres,mongodb,docker,kubernetes,linux,git,aws&theme=dark"/> </p>
@@ -103,7 +104,7 @@ Learning
 ✓ MLOps
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+```
 Mission
 
 Build intelligent backend systems capable of
