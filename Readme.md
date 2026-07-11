@@ -6,8 +6,11 @@
 
 
 <p align="center">
-<img src="YOUR_BANNER_IMAGE"/>
+
+<img src="./assets/banner.gif" width="100%">
+
 </p>
+
 
 <p align="center">
 <img width="700" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
