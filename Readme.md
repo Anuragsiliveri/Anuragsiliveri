@@ -23,8 +23,6 @@ alt="Banner"
 ```
 $ whoami
 
-$ whoami
-
 Name        : Anurag Siliveri
 
 Role        : Software Engineer | Backend • AI • Cloud
@@ -61,6 +59,7 @@ Currently Building
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
 ---
 ## ⚙ Backend Engineering
 
@@ -201,7 +200,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragsilive
 
 # 📚 Current Learning Roadmap
 
-```text
+```python
 
 Backend Engineering
         ████████████████ 100%
