@@ -48,11 +48,8 @@ Currently Building
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,redis,postgres,mysql,mongodb,docker,kubernetes,nginx"/>
-</p>
-
-<div align="center">
+⚙ Backend Engineering
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,fastapi,redis,postgres,mongodb,docker,kubernetes,linux,git,aws&theme=dark"/> </p>
 
 | Technology | Purpose |
 |------------|---------|
@@ -78,18 +75,8 @@ Currently Building
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,jupyter,anaconda"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-</p>
-
-<div align="center">
+🤖 Artificial Intelligence
+<p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda&theme=dark"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/> </p>
 
 | Technology | Purpose |
 |------------|---------|
