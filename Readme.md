@@ -53,6 +53,8 @@ Currently Building
 ```
 ---
 ## ⚙ Backend Engineering
+
+<div align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,redis,postgres,mongodb,docker,kubernetes"/>
 
 | Technology | Purpose |
@@ -78,6 +80,8 @@ Currently Building
 ---
 
 ## 🤖 Artificial Intelligence
+
+<div align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 
 | Technology | Purpose |
