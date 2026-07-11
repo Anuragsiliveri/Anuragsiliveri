@@ -23,23 +23,33 @@ alt="Banner"
 ```
 $ whoami
 
+$ whoami
+
 Name        : Anurag Siliveri
 
-Role        : Backend Engineer | AI/ML Engineer
+Role        : Software Engineer | Backend • AI • Cloud
+
+Status      : Building production-grade software and exploring AI/ML
+
+Location    : Republic Of Bharat 🇮🇳
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Core Interests
 
-▸ Backend Engineering
-▸ Distributed Systems
-▸ Artificial Intelligence
-▸ Machine Learning
-▸ Computer Vision
-▸ NLP
-▸ Cloud Computing
-▸ MLOps
-▸ System Design
+$ cat profile.txt
+
+Software engineer passionate about building scalable,
+reliable, and intelligent software.
+
+Currently exploring backend engineering, artificial
+intelligence, distributed systems, cloud computing,
+system design, and modern software architecture to
+create production-grade applications.
+
+Coding with purpose.
+Building with quality.
+Never stop learning.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
