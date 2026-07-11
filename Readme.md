@@ -20,7 +20,7 @@ alt="Banner"
 </p>
 
 
-```
+```console
 $ whoami
 
 Name        : Anurag Siliveri
@@ -217,7 +217,7 @@ Docker
 System Design
         ██████████░░░░░░ 70%
 
-Distributed Systems
+Distributed Sys
         ████████░░░░░░░░ 60%
 
 Kubernetes
