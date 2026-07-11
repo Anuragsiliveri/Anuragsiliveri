@@ -95,22 +95,37 @@ Currently Building
 </div>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Learning
+## 📚 Currently Learning
 
-✓ Kubernetes
-✓ AWS
-✓ Distributed Systems
-✓ LLM Applications
-✓ MLOps
+<p align="center">
+
+<a href="https://kubernetes.io/">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+
+<a href="https://aws.amazon.com/">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<a href="https://github.com/donnemartin/system-design-primer">
+  <img src="https://img.shields.io/badge/System%20Design-0A66C2?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Distributed_computing">
+  <img src="https://img.shields.io/badge/Distributed%20Systems-00599C?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</a>
+
+<a href="https://huggingface.co/learn/llm-course">
+  <img src="https://img.shields.io/badge/LLMs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+
+<a href="https://ml-ops.org/">
+  <img src="https://img.shields.io/badge/MLOps-8A2BE2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+</a>
+
+</p>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-Mission
-
-Build intelligent backend systems capable of
-serving millions of users.
-
-```
 
 ---
 
