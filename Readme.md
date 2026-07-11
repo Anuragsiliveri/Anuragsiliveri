@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-<img src="YOUR_BANNER_IMAGE"/>
+<img src="https://wallhaven.cc/w/6ldyzl"/>
 </p>
 
 ---
