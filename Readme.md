@@ -156,9 +156,11 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragsilive
 
 ---
 
-# 🐍 Contribution Snake
+# 📅 Contribution Calendar
 
-<img src="https://raw.githubusercontent.com/Anuragsiliveri/Anuragsiliveri/output/github-contribution-grid-snake-dark.svg"/>
+<p align="center">
+  <img src="https://ghchart.rshah.org/22C55E/Anuragsiliveri" alt="GitHub Contribution Chart" />
+</p>
 
 ---
 
