@@ -11,9 +11,8 @@
 ---
 
 <p align="center">
-<img src="https://wallhaven.cc/w/6ldyzl"/>
+  <img src="assets/banner.png" width="100%" alt="Banner">
 </p>
-
 ---
 
 # 🌱 Terminal
