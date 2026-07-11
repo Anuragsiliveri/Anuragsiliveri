@@ -159,9 +159,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragsilive
 # 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/22C55E/Anuragsiliveri" alt="GitHub Contribution Chart" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuragsiliveri&theme=github_dark"/>
 </p>
-
 ---
 
 # 🏆 GitHub Trophies
