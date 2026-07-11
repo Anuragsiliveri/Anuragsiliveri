@@ -20,7 +20,7 @@ alt="Banner"
 </p>
 
 
-```console
+```bash
 $ whoami
 
 Name        : Anurag Siliveri
