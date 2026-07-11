@@ -135,7 +135,10 @@ Currently Building
 
 # 📊 GitHub Statistics
 
+<div align="center">
 <img width="49%" src="https://streak-stats.demolab.com?user=Anuragsiliveri&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 
